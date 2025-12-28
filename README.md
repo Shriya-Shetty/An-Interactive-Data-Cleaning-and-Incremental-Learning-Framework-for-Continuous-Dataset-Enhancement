@@ -1,0 +1,2 @@
+# An-Interactive-Data-Cleaning-and-Incremental-Learning-Framework-for-Continuous-Dataset-Enhancement
+This repository presents an interactive data preprocessing and incremental learning framework for structured datasets. The system automates essential data cleaning operations, including missing value handling, outlier capping, duplicate removal, feature encoding, and scaling to prepare data for machine learning tasks.
