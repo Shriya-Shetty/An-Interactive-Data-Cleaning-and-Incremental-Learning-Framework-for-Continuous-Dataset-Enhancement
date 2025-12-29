@@ -88,7 +88,7 @@ rmse = sqrt(mse)
 r2 = r2_score(y_test, y_pred)
 
 print(f"RMSE: {rmse:.2f}")
-print(f"R² Score: {r2:.3f}")
+print(f"R2 Score: {r2:.3f}")
 
 # ---------------- SAVE MODEL ----------------
 joblib.dump(pipeline, MODEL_PATH)
